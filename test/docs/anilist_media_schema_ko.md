@@ -1,4 +1,4 @@
-# AniList Media 스키마 전체 필드 한국어 설명
+# AniList Media 스키마 전체 필드 설명
 
 아래 문서는 AniList GraphQL API의 `Media` 타입에 존재하는 모든 필드의 구조와 의미를 한국어로 상세하게 정리한 것입니다.  
 EDA 관점에서 어떤 필드를 사용할지 판단하기 위한 참고 문서로 사용할 수 있습니다.
