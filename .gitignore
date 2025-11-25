@@ -55,7 +55,7 @@ __cache__/
 tmp/
 
 # test
-test/
+# test/
 
 # Streamlit generated files
 **/.streamlit/secrets.toml
